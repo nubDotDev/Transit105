@@ -8,5 +8,8 @@ List of all characters in the font:
 - `` `-=[]\;',./~!@#$%^&*()_+{}|:"<>? ``
 - em- and en-dashes (— and –)
 - ☺ and ♥
-- ◼ has every segment filled in
+- ■ has every segment filled in
 - □ has only the outlines of the segments
+
+![Showcase 1](showcase1.png "Showcase 1")
+![Showcase 2](showcase2.png "Showcase 2")
